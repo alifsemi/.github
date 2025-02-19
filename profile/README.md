@@ -1,4 +1,4 @@
-<img width=250 src="https://github.com/alifsemi/.github/blob/main/profile/images/ALIF-logo-positive-012920-2-300x110.png"> *Future of intelligent machines* 
+<img width=250 src="https://github.com/alifsemi/.github/blob/main/profile/images/ALIF%20logo%20-%20on%20white.png"> *Future of intelligent machines* 
 
 # Alif Semiconductor Software
 

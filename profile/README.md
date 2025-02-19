@@ -8,8 +8,8 @@ The software here is delivered by [Alif Semiconductor](https://alifsemi.com/) as
 
 Please refer to the [Alif License](https://alifsemi.com/license/) and any additional licensing conditions in the License.txt file in each repository for the licensing terms under which this software is distributed.
 
-## Ensemble Software Development Kit
-All relevant information can be found at [Ensemble Software Development Kit Overview](https://github.com/alifsemi/ensemble_SDK#readme)
+## Alif Semiconductor Software Development Kit
+All relevant information can be found at [Software Development Kit Overview](https://github.com/alifsemi/ensemble_SDK#readme)
 
 ## FAQ
 To view the FAQs, please visit

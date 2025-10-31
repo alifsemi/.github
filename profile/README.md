@@ -10,13 +10,13 @@ Please refer to the [Alif License](https://alifsemi.com/license/) and any additi
 
 <br>
 
-
+---
 > [!CAUTION]
 > **CMSIS DFP for Alif Devices has been updated to version 2.x. This is not backwards compatible with the previous 1.x release. Please refer to the [Preliminary Migration Guide](https://github.com/alifsemi/alif_ensemble-cmsis-dfp/releases/download/v2.0.2/AlifSemiCMSISDFP2MigrationGuide-Preliminary.pdf) for guidelines to migrate existing projects.**
 
 > [!NOTE]
 > **For Zephyr development on Alif Devices, users MUST start with the [Alif Zephyr SDK User Guide](https://github.com/alifsemi/sdk-alif/releases/download/v1.3.0/user_guide.pdf) in the [sdk_alif repository](https://github.com/alifsemi/sdk-alif).**
-
+---
 <br>
 
 ## Alif Semiconductor Software Development Kit

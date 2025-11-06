@@ -16,7 +16,7 @@ Please refer to the [Alif License](https://alifsemi.com/license/) and any additi
 > **For Zephyr development on Alif Devices, users MUST start with the [Alif Zephyr SDK User Guide](https://github.com/alifsemi/sdk-alif/releases/download/v1.3.0/user_guide.pdf) in the [sdk_alif repository](https://github.com/alifsemi/sdk-alif).**
 
 > [!CAUTION]
-> **Please note that the main branch for the public Zephyr repositories is now tracking the ZAS 2.0.x development work based on Zephyer kernel version 4.1. This is NOT backwards compatible to the Zephyr kernel 3.6 which is what ZAS 1.x was based on. Unless you are using E8/E4/E6 devices there is not need to move to the new kernel. The old main which was tracking ZAS 1.x is not branched to [v1.5-zas-branch](https://github.com/alifsemi/sdk-alif/tree/v1.5-zas-branch).**
+> **Please note that the main branch for the public Zephyr repositories is now tracking the ZAS 2.0.x development work based on Zephyer kernel version 4.1. This is NOT backwards compatible to the Zephyr kernel 3.6 which is what ZAS 1.x was based on. Unless you are using E8/E4/E6 devices there is not need to move to the new kernel. The old main which was tracking ZAS 1.x is now branched to [v1.5-zas-branch](https://github.com/alifsemi/sdk-alif/tree/v1.5-zas-branch).**
 
 > [!CAUTION]
 > **CMSIS DFP for Alif Devices has been updated to version 2.x. This is not backwards compatible with the previous 1.x release. Please refer to the [Preliminary Migration Guide](https://github.com/alifsemi/alif_ensemble-cmsis-dfp/releases/download/v2.0.2/AlifSemiCMSISDFP2MigrationGuide-Preliminary.pdf) for guidelines to migrate existing projects.**
